@@ -1,0 +1,10 @@
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojAssemblyReference.cache
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.cache
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
+C:\Users\jiash\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.FrmRomanNumeralConv.resources
